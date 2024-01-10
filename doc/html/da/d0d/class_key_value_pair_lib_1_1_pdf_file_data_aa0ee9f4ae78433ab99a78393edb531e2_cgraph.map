@@ -1,0 +1,19 @@
+<map id="KeyValuePairLib.PdfFileData.ReadFile" name="KeyValuePairLib.PdfFileData.ReadFile">
+<area shape="rect" id="Node000001" title="Initializes a new instance of the PdfFileData class with the provided configuration and PDF file path..." alt="" coords="5,205,198,248"/>
+<area shape="rect" id="Node000002" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#a99eb4f08665d1ea00ec2a898c8bd48c4" title="Method to capture separated fields per row in a Dictionary(int, List(string)). Methode um separierte ..." alt="" coords="253,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,203,165,132,202,92,244,58,253,53,255,57,247,62,205,96,169,136,118,206"/>
+<area shape="rect" id="Node000003" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#ae829edad6aa34aec67a2bbb361e0ec89" title="Transforms the indexedFields Dictionary into a DataTable object. Wandelt das indexedFields&#45;Dictionary..." alt="" coords="253,72,446,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,203,180,164,244,124,257,118,260,123,247,129,183,168,130,207"/>
+<area shape="rect" id="Node000004" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#aa7e76f2fe792e693691f9869b7257f0e" title="Method to index start and end of fields. Methode um Start und Ende von Feldern zu indexieren." alt="" coords="253,139,446,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,202,253,183,254,188,184,207"/>
+<area shape="rect" id="Node000005" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#af79eb33733d07fa078970ee59b47dcaa" title="Method for removing empty rows. Methode zum Entfernen von leeren Zeilen." alt="" coords="246,205,453,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,224,230,224,230,229,198,229"/>
+<area shape="rect" id="Node000006" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#ab9414ce8c4b7cca3ddd0f5c4ab92b01a" title="Method for separating fields by delimiters. Methode zum Separieren von Feldern durch Delimiter." alt="" coords="253,272,446,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,246,254,265,253,270,183,251"/>
+<area shape="rect" id="Node000007" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#a7d17f4f774e79871834e93ce9041d4bf" title="Method for extracting a PdfDocument object as a string. Methode zum Extrahieren eines PdfDocument&#45;Obj..." alt="" coords="253,339,446,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="130,246,183,285,247,324,260,330,257,335,244,329,180,290,127,250"/>
+<area shape="rect" id="Node000009" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#ab2bf980f81702f9c9137d7b79106fc53" title="Method to capture rows in a Dictionary(int, string) for position dependent comparisons...." alt="" coords="253,405,446,448"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="118,247,169,318,205,357,247,391,255,396,253,401,244,396,202,361,165,321,114,250"/>
+<area shape="rect" id="Node000008" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#acf3294db003931cac3e559df8bb5fe0b" title="Method for uniformly extracting a PdfPageBase object as a string. Methode zum einheitlichen Extrahier..." alt="" coords="501,339,693,381"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="446,357,486,357,486,363,446,363"/>
+</map>

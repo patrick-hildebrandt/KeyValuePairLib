@@ -1,0 +1,18 @@
+<map id="KeyValuePairLib.KeyValuePairReader.GetFirstField" name="KeyValuePairLib.KeyValuePairReader.GetFirstField">
+<area shape="rect" id="Node000001" title="This method sets the cursor to the first field and returns a boolean value. Diese Methode setzt den C..." alt="" coords="743,96,921,139"/>
+<area shape="rect" id="Node000002" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a451f7055ac7bc977f1b20de1770e4410" title="Reports the results of the methods for the FieldTable object to the console for debugging purpose...." alt="" coords="471,5,689,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="750,93,671,67,672,62,752,88"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a8ca867f48ea5b3dd75395d0e65ee420c" title="Reports the results of the methods for the FieldTable object to the console for debugging purpose...." alt="" coords="471,88,689,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="728,120,689,120,689,115,728,115"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a20d38f6970ca80136a9beba951f90e43" title="This method traverses the DataTable FieldTable with a cursor alternately column&#45;wise and row&#45;wise and..." alt="" coords="464,171,695,213"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="746,146,696,161,657,173,656,168,695,156,745,141"/>
+<area shape="rect" id="Node000003" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aca9ed51b742c4bf3945655dc35c5dc3c" title="This method reports the results of the respective sub&#45;methods in order of the processing steps to the..." alt="" coords="239,55,416,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,58,417,64,416,59,455,52"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="455,100,416,93,417,88,456,94"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a9bb180a1492b164c1eb71550019c5540" title="This method extracts the key&#45;value pairs from the provided file in filePath based on the configuratio..." alt="" coords="239,171,416,213"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="449,195,417,195,417,189,449,189"/>
+<area shape="rect" id="Node000007" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aceea1c4f3a04fc40e9a59a27fd93526d" title=" " alt="" coords="5,137,191,180"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="224,180,191,175,192,170,224,174"/>
+<area shape="rect" id="Node000008" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aabd30a77b43a5b89bf3fc46c5c3bf360" title=" " alt="" coords="5,204,191,247"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="224,210,192,214,191,209,224,204"/>
+</map>

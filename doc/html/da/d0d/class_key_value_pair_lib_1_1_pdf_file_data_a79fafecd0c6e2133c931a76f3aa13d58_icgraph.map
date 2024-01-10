@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.PdfFileData.GetPdfPageString" name="KeyValuePairLib.PdfFileData.GetPdfPageString">
+<area shape="rect" id="Node000001" title="Method for uniformly extracting a PdfPageBase object as a string with positionings or simple string...." alt="" coords="486,5,678,48"/>
+<area shape="rect" id="Node000002" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#a7d17f4f774e79871834e93ce9041d4bf" title="Method for extracting a PdfDocument object as a string. Methode zum Extrahieren eines PdfDocument&#45;Obj..." alt="" coords="246,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,29,438,29,438,24,471,24"/>
+<area shape="rect" id="Node000003" href="$da/d0d/class_key_value_pair_lib_1_1_pdf_file_data.html#aa0ee9f4ae78433ab99a78393edb531e2" title="Initializes a new instance of the PdfFileData class with the provided configuration and PDF file path..." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,29,198,29,198,24,231,24"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="KeyValuePairLib.KeyValuePairReader.GetNextRow" name="KeyValuePairLib.KeyValuePairReader.GetNextRow">
+<area shape="rect" id="Node000001" title="This method sets the cursor to the first field of the downstream row and returns a boolean value...." alt="" coords="730,51,908,93"/>
+<area shape="rect" id="Node000002" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a8ca867f48ea5b3dd75395d0e65ee420c" title="Reports the results of the methods for the FieldTable object to the console for debugging purpose...." alt="" coords="464,5,682,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,59,683,54,683,49,716,54"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a77c549964d3876320dd6feafc4249199" title="This method traverses the DataTable FieldTable with a cursor alternately column&#45;wise and row&#45;wise and..." alt="" coords="475,88,671,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="716,90,672,97,671,92,715,85"/>
+<area shape="rect" id="Node000003" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aca9ed51b742c4bf3945655dc35c5dc3c" title="This method reports the results of the respective sub&#45;methods in order of the processing steps to the..." alt="" coords="239,13,416,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,37,416,37,416,32,449,32"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a9bb180a1492b164c1eb71550019c5540" title="This method extracts the key&#45;value pairs from the provided file in filePath based on the configuratio..." alt="" coords="239,88,416,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,112,417,112,417,107,460,107"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aceea1c4f3a04fc40e9a59a27fd93526d" title=" " alt="" coords="5,55,191,97"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="224,97,191,92,192,87,224,92"/>
+<area shape="rect" id="Node000007" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aabd30a77b43a5b89bf3fc46c5c3bf360" title=" " alt="" coords="5,121,191,164"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="224,127,192,132,191,127,224,122"/>
+</map>

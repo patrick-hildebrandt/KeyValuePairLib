@@ -1,0 +1,5 @@
+<map id="KeyValuePairLib.KeyValuePairReader.GetCurrentValue" name="KeyValuePairLib.KeyValuePairReader.GetCurrentValue">
+<area shape="rect" id="Node000001" title="This method extracts the value from the current field of the cursor as a string. Diese Methode extrah..." alt="" coords="5,5,191,48"/>
+<area shape="rect" id="Node000002" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a3276d437dd972c9c1d7ddd9b07a2fc53" title="This method returns the number of fields from the DataTable FieldTable as an integer value...." alt="" coords="239,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,224,24,224,29,191,29"/>
+</map>

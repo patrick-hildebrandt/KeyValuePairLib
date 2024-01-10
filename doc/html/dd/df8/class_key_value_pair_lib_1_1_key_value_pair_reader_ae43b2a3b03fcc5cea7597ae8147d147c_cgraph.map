@@ -1,0 +1,6 @@
+<map id="KeyValuePairLib.KeyValuePairReader.IncreaseOffsetRight" name="KeyValuePairLib.KeyValuePairReader.IncreaseOffsetRight">
+<area shape="rect" id="Node000001" title="This method increases the offset for the extraction field by one to the right and calls itself recurs..." alt="" coords="5,29,208,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="61,29,60,19,67,10,83,5,107,3,133,5,148,12,146,17,132,10,106,8,84,10,70,15,65,21,67,28"/>
+<area shape="rect" id="Node000002" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a498ed67d996fe95107e443e7d1a22a26" title="This method extracts the value from the field to the right of the cursor as a string...." alt="" coords="256,29,433,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,48,241,48,241,53,208,53"/>
+</map>

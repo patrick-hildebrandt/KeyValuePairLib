@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.SeparatorCollection" name="KeyValuePairLib.SeparatorCollection">
+<area shape="rect" id="Node000001" title="This class stores separators and their variations for key&#45;value pairs which are connected by a long s..." alt="" coords="56,341,296,1035"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,107,147,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,190,115,341,110,342,82,191"/>
+<area shape="rect" id="Node000003" href="$db/d74/class_key_value_pair_lib_1_1_regex_utils.html" title="Utility class with default values for masking and unmasking character occurrences in the document,..." alt="" coords="171,5,383,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,278,246,325,241,324,250,277"/>
+</map>

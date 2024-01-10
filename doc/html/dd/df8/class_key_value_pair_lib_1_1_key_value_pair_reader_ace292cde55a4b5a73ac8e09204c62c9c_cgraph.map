@@ -1,0 +1,11 @@
+<map id="KeyValuePairLib.KeyValuePairReader.ExtractSeparators" name="KeyValuePairLib.KeyValuePairReader.ExtractSeparators">
+<area shape="rect" id="Node000001" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="5,72,200,115"/>
+<area shape="rect" id="Node000002" href="$d7/d04/class_key_value_pair_lib_1_1_search_key.html#ae5707680c2df6bf2c723f819c6cfc824" title="Gets the demasked values of the appendix for the search key as string with row breaks...." alt="" coords="248,5,437,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,69,248,50,250,55,182,74"/>
+<area shape="rect" id="Node000003" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a1d6076133ed641b2ec1e79540c6defb0" title="This method extracts the value from the current field of the cursor as a string. Diese Methode extrah..." alt="" coords="250,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,91,235,91,235,96,200,96"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#af895cd6fc591c06fd5ba043e12d7e01f" title="Method to trim separator characters. Methode zum Trimmen von Separator&#45;Zeichen." alt="" coords="254,139,431,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,113,250,132,248,137,181,118"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a3276d437dd972c9c1d7ddd9b07a2fc53" title="This method returns the number of fields from the DataTable FieldTable as an integer value...." alt="" coords="485,72,662,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,91,470,91,470,96,435,96"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="KeyValuePairLib.KeyValuePairReader.ExtractHorizontal" name="KeyValuePairLib.KeyValuePairReader.ExtractHorizontal">
+<area shape="rect" id="Node000001" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="5,131,195,173"/>
+<area shape="rect" id="Node000002" href="$d1/db2/class_key_value_pair_lib_1_1_grouped_key_value_pairs.html#a246d80fd3b9b304be2e3a1f8a21b531f" title="Adds a property with the specified name as string and value as object to the collection...." alt="" coords="247,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,128,180,93,241,58,255,51,257,56,244,62,183,97,131,133"/>
+<area shape="rect" id="Node000003" href="$d7/d04/class_key_value_pair_lib_1_1_search_key.html#ae5707680c2df6bf2c723f819c6cfc824" title="Gets the demasked values of the appendix for the search key as string with row breaks...." alt="" coords="249,72,439,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,127,237,116,239,121,192,133"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a498ed67d996fe95107e443e7d1a22a26" title="This method extracts the value from the field to the right of the cursor as a string...." alt="" coords="493,172,670,215"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,155,445,175,479,178,478,183,445,180,195,160"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#ae43b2a3b03fcc5cea7597ae8147d147c" title="This method increases the offset for the extraction field by one to the right and calls itself recurs..." alt="" coords="243,213,445,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,171,266,206,264,211,164,176"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#af895cd6fc591c06fd5ba043e12d7e01f" title="Method to trim separator characters. Methode zum Trimmen von Separator&#45;Zeichen." alt="" coords="255,280,433,323"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="124,172,176,219,209,244,244,266,255,271,253,276,241,270,206,248,173,223,121,176"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="445,214,478,209,479,214,446,220"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="299,213,297,203,305,194,320,189,344,187,370,189,386,196,383,201,369,194,344,192,321,194,308,199,302,205,304,212"/>
+</map>

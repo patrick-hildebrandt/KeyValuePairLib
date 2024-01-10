@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.RegexWrappedCollection.Add" name="KeyValuePairLib.RegexWrappedCollection.Add">
+<area shape="rect" id="Node000001" title="Initializes a new instance of the RegexWrappedCollection class with the provided regular expression p..." alt="" coords="264,39,474,81"/>
+<area shape="rect" id="Node000002" href="$d6/d6d/class_key_value_pair_lib_1_1_regex_wrapped_collection.html#a7ff8f2e34aa463afd1026b07ef49d409" title="Adds a collection of items to the HashSet and applies the regular expressions to each value before ad..." alt="" coords="5,5,216,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,47,216,43,217,38,249,42"/>
+<area shape="rect" id="Node000003" href="$d6/d6d/class_key_value_pair_lib_1_1_regex_wrapped_collection.html#ad074db51642f99635d0a8c849eb942df" title="Applies the regular expression prefix and suffix to the provided item. Wendet das reguläre Ausdrucks&#45;..." alt="" coords="5,72,216,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,78,217,82,216,77,249,73"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="KeyValuePairLib.KeyValuePairReader.ExtractTable" name="KeyValuePairLib.KeyValuePairReader.ExtractTable">
+<area shape="rect" id="Node000001" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="5,205,183,248"/>
+<area shape="rect" id="Node000002" href="$d1/db2/class_key_value_pair_lib_1_1_grouped_key_value_pairs.html#a246d80fd3b9b304be2e3a1f8a21b531f" title="Adds a property with the specified name as string and value as object to the collection...." alt="" coords="231,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,204,153,133,189,93,229,58,236,53,239,58,232,62,192,96,158,136,110,207"/>
+<area shape="rect" id="Node000003" href="$d7/d04/class_key_value_pair_lib_1_1_search_key.html#ae5707680c2df6bf2c723f819c6cfc824" title="Gets the demasked values of the appendix for the search key as string with row breaks...." alt="" coords="233,72,422,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,203,168,164,229,124,241,118,244,123,232,129,171,168,121,207"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a4eb5c470a0c5b66869471b2c8d3c8990" title="This method returns the integer value of the current row of the cursor as an integer value...." alt="" coords="239,139,416,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,202,235,183,237,189,172,207"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a1d6076133ed641b2ec1e79540c6defb0" title="This method extracts the value from the current field of the cursor as a string. Diese Methode extrah..." alt="" coords="235,205,420,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,224,220,224,220,229,183,229"/>
+<area shape="rect" id="Node000007" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a19644ad9734382a0b798b8b9b805f779" title="This method sets the cursor to the field of the provided integer value for field and returns a boolea..." alt="" coords="239,272,416,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,246,237,265,235,270,170,251"/>
+<area shape="rect" id="Node000008" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a8dce4c2aef372c005955154d3d4f46ae" title="This method sets the cursor to the downstream field and returns a boolean value. Diese Methode setzt ..." alt="" coords="239,339,416,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="121,246,171,285,232,324,244,330,241,335,229,329,168,290,118,250"/>
+<area shape="rect" id="Node000009" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#af895cd6fc591c06fd5ba043e12d7e01f" title="Method to trim separator characters. Methode zum Trimmen von Separator&#45;Zeichen." alt="" coords="239,405,416,448"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="110,247,158,317,192,357,232,391,239,396,236,400,229,395,189,361,153,321,105,250"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a3276d437dd972c9c1d7ddd9b07a2fc53" title="This method returns the number of fields from the DataTable FieldTable as an integer value...." alt="" coords="472,205,649,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="420,224,457,224,457,229,420,229"/>
+</map>

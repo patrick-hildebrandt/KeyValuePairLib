@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.PdfFileData" name="KeyValuePairLib.PdfFileData">
+<area shape="rect" id="Node000001" title="Represents data extracted from a PDF file. Stellt Daten dar, die aus einer PDF&#45;Datei extrahiert wurde..." alt="" coords="119,709,350,1755"/>
+<area shape="rect" id="Node000002" href="$dd/d8c/class_key_value_pair_lib_1_1_config.html" title="This class stores the configuration for reading files. Diese Klasse speichert die Konfiguration zum A..." alt="" coords="5,5,224,645"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,644,166,692,161,693,154,645"/>
+<area shape="rect" id="Node000003" href="$db/d74/class_key_value_pair_lib_1_1_regex_utils.html" title="Utility class with default values for masking and unmasking character occurrences in the document,..." alt="" coords="249,189,461,461"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="339,461,309,693,303,692,334,461"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.SeparatorCollection.AddRange" name="KeyValuePairLib.SeparatorCollection.AddRange">
+<area shape="rect" id="Node000001" title="Adds a IEnumerable of separator strings to the HashSet of separators. Fügt dem HashSet der Trennzeich..." alt="" coords="5,5,183,48"/>
+<area shape="rect" id="Node000002" href="$de/d04/class_key_value_pair_lib_1_1_separator_collection.html#a78ed693b6b2cf18cb518c1e57d5a016b" title="Adds a new separator string to the HashSet of separators. Fügt dem HashSet der Trennzeichen eine neue..." alt="" coords="231,5,408,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,24,216,24,216,29,183,29"/>
+<area shape="rect" id="Node000003" href="$de/d04/class_key_value_pair_lib_1_1_separator_collection.html#a3e911adf065c7467c14b5e25931edf68" title="Adds variations of the separator string to the HashSet of separator variations. Fügt Variationen der ..." alt="" coords="456,5,675,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,24,441,24,441,29,409,29"/>
+</map>

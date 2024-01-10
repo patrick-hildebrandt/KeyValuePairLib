@@ -1,0 +1,7 @@
+<map id="KeyValuePairLib.RegexWrappedCollection" name="KeyValuePairLib.RegexWrappedCollection">
+<area shape="rect" id="Node000001" title="This class represents a custom HashSet of masked strings with regular expression prefixes and suffixe..." alt="" coords="49,341,269,725"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,107,124,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,189,116,341,110,342,73,190"/>
+<area shape="rect" id="Node000003" href="$db/d74/class_key_value_pair_lib_1_1_regex_utils.html" title="Utility class with default values for masking and unmasking character occurrences in the document,..." alt="" coords="148,5,360,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,278,212,325,207,324,219,277"/>
+</map>

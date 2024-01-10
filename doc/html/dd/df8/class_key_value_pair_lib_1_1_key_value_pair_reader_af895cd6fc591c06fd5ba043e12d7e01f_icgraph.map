@@ -1,0 +1,39 @@
+<map id="KeyValuePairLib.KeyValuePairReader.TrimSeparators" name="KeyValuePairLib.KeyValuePairReader.TrimSeparators">
+<area shape="rect" id="Node000001" title="Method to trim separator characters. Methode zum Trimmen von Separator&#45;Zeichen." alt="" coords="1277,239,1454,281"/>
+<area shape="rect" id="Node000002" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a42367f517cfaceddf83d34816fbca9d1" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1022,5,1227,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1347,226,1328,188,1301,144,1268,100,1227,62,1209,51,1212,46,1231,58,1272,96,1306,141,1333,185,1352,224"/>
+<area shape="rect" id="Node000009" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a1b8d79533b9a0950587e65ba963679bc" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1033,72,1216,115"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1337,229,1289,178,1260,152,1228,129,1205,118,1208,113,1230,124,1263,147,1293,174,1341,225"/>
+<area shape="rect" id="Node000010" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a8459545cacca3fc0137617327e5f477d" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1030,139,1219,181"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1310,234,1228,196,1197,184,1199,179,1230,191,1313,229"/>
+<area shape="rect" id="Node000011" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aaeb732b3794c877e679dc5f1ce168f03" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1020,205,1229,248"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1262,248,1229,244,1230,239,1262,243"/>
+<area shape="rect" id="Node000012" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#af8ac45367fe82323893dd4433ab1165b" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1036,272,1213,315"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="1263,277,1214,284,1213,278,1262,272"/>
+<area shape="rect" id="Node000013" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#ace292cde55a4b5a73ac8e09204c62c9c" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1027,339,1222,381"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="1313,291,1230,329,1199,341,1197,336,1228,324,1310,286"/>
+<area shape="rect" id="Node000014" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a4d44a676c339433de4b01921656e5543" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1036,405,1213,448"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="1341,295,1293,346,1263,373,1230,396,1208,407,1205,402,1228,391,1260,368,1289,342,1337,291"/>
+<area shape="rect" id="Node000015" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#ad2cd5b98ca957aa795abbfe1c8a7b0d9" title="This method performs an extraction attempt on the current position of the cursor based on the provide..." alt="" coords="1036,472,1213,515"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="1352,296,1333,335,1306,379,1272,424,1231,462,1212,474,1209,469,1227,458,1268,420,1301,376,1328,332,1347,294"/>
+<area shape="rect" id="Node000003" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a2b11dbfd98536340ea164a01580c7153" title="This method compares the provided search keys in searchKeys with the current position of the cursor i..." alt="" coords="743,239,972,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1029,57,1021,62,972,105,929,154,896,202,873,240,868,237,891,199,925,151,968,101,1018,58,1026,53"/>
+<area shape="rect" id="Node000004" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a20d38f6970ca80136a9beba951f90e43" title="This method traverses the DataTable FieldTable with a cursor alternately column&#45;wise and row&#45;wise and..." alt="" coords="464,205,695,248"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="728,247,696,243,696,238,729,242"/>
+<area shape="rect" id="Node000008" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a77c549964d3876320dd6feafc4249199" title="This method traverses the DataTable FieldTable with a cursor alternately column&#45;wise and row&#45;wise and..." alt="" coords="482,272,678,315"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="729,278,679,284,678,279,729,273"/>
+<area shape="rect" id="Node000005" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#a9bb180a1492b164c1eb71550019c5540" title="This method extracts the key&#45;value pairs from the provided file in filePath based on the configuratio..." alt="" coords="239,239,416,281"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,247,417,251,416,246,449,241"/>
+<area shape="rect" id="Node000006" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aceea1c4f3a04fc40e9a59a27fd93526d" title=" " alt="" coords="5,205,191,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="224,248,191,243,192,238,224,242"/>
+<area shape="rect" id="Node000007" href="$dd/df8/class_key_value_pair_lib_1_1_key_value_pair_reader.html#aabd30a77b43a5b89bf3fc46c5c3bf360" title=" " alt="" coords="5,272,191,315"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="224,278,192,282,191,277,224,272"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="467,281,416,274,417,269,467,276"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="1032,123,1021,129,980,155,941,185,882,240,878,236,938,181,977,151,1018,124,1030,119"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="1040,189,1021,196,910,241,908,236,1019,191,1038,184"/>
+<area shape="poly" id="edge14_Node000011_Node000003" title=" " alt="" coords="1005,244,973,248,972,243,1005,239"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="1020,283,972,277,973,272,1021,278"/>
+<area shape="poly" id="edge18_Node000013_Node000003" title=" " alt="" coords="1038,336,1019,329,908,284,910,279,1021,324,1040,331"/>
+<area shape="poly" id="edge20_Node000014_Node000003" title=" " alt="" coords="1030,401,1018,396,977,369,938,339,878,284,882,280,941,335,980,365,1021,391,1032,397"/>
+<area shape="poly" id="edge22_Node000015_Node000003" title=" " alt="" coords="1026,467,1018,462,968,419,925,369,891,321,868,283,873,280,896,318,929,366,972,415,1021,458,1029,463"/>
+</map>
